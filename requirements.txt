@@ -1,0 +1,32 @@
+# Core ML and Embeddings
+sentence-transformers
+torch
+transformers
+
+# Vector Database
+chromadb
+
+# Text Processing and Chunking
+langchain
+tiktoken
+
+# Document Processing
+PyPDF2
+python-docx
+
+# Data Structures and Utilities
+numpy
+pandas
+pathlib2
+
+# Optional: For better performance
+faiss-cpu
+
+# Development and Debugging
+python-dotenv
+
+# System utilities (if needed)
+# psutil
+
+# adk-google
+google-adk
